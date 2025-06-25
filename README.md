@@ -7,7 +7,6 @@ Experience the soothing sounds of an endless rainstick. Customize the gravity, s
 
 ![Screenshot](https://github.com/ChrisPirillo/infinite-rainstick/blob/main/assets/screenshot.png?raw=true)
 
-
 ![Screenshot](https://raw.githubusercontent.com/ChrisPirillo/infinite-rainstick/main/assets/screenshot.png)
 
 * Try it now: [https://pirillo.com/arcade/infinite-rainstick.html](https://pirillo.com/arcade/infinite-rainstick.html)
